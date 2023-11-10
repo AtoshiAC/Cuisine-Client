@@ -18,4 +18,8 @@ Our website is fully responsive, meaning it looks great on any device, whether i
 Cuisine Chronicles was created with the goal of bringing the best recipes from around the world to a single platform. Our team of experts has worked tirelessly to curate the best recipes from the top chefs in each cuisine, ensuring that our users get the most authentic and delicious dishes possible.
 
 ## Live Site Link ##
+<<<<<<< HEAD
 You can visit our firbase live site at https://cuisine-chronicies.web.app
+=======
+You can visit our firbase live site at ------
+>>>>>>> 7fc33a7c6495c45f73a9d483611558920ee8c661
