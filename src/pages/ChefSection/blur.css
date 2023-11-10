@@ -1,0 +1,25 @@
+.lazy-load-image-background.blur {
+    filter: blur(15px);
+}
+
+.lazy-load-image-background.blur.lazy-load-image-loaded {
+    filter: blur(0);
+    transition: filter 4.3s;
+}
+
+.lazy-load-image-background.blur>img {
+    opacity: 0;
+}
+
+.lazy-load-image-background.blur.lazy-load-image-loaded>img {
+    opacity: 1;
+    transition: opacity 3.3s;
+}
+.lazy-load-image-background.opacity {
+    opacity: 0;
+}
+
+.lazy-load-image-background.opacity.lazy-load-image-loaded {
+    opacity: 1;
+    transition: opacity 2.3s;
+}
