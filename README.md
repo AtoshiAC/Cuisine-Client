@@ -19,4 +19,3 @@ Cuisine Chronicles was created with the goal of bringing the best recipes from a
 
 ## Live Site Link ##
 You can visit our firbase live site at https://cuisine-chronicles.web.app
-You can also visit to vercel. show respect it's confidential https://assignment-10-server-almahmudsarker.vercel.app
